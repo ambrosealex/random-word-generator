@@ -1,0 +1,25 @@
+*{
+    border : 0;
+    margin : 0 auto;
+    padding: 0;
+}
+.wrapper{
+    padding: 5px;
+    text-align: center;
+    display: block;
+    width: 500px;
+}
+h1{
+    padding: 10px;
+    border: 2px solid black;
+    margin: 20px 0;
+    display: block;
+}
+h4{
+    margin-top: 20px
+}
+form input{
+    height: 30px;
+    width: 70px;
+    border: 1px solid black;
+}
